@@ -1,0 +1,14 @@
+breadcrumb.org.eclipse.jdt.ui.JavaPerspective=true
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.springframework.http.HttpEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="org.springframework.http.ResponseEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="java.lang.Enum"><rhs name\="javax.persistence.CascadeType"/><rhs name\="org.springframework.http.HttpMethod"/></lhs><lhs name\="io.netty.util.AbstractConstant"><rhs name\="io.netty.channel.ChannelOption"/><rhs name\="io.netty.channel.epoll.EpollChannelOption"/></lhs><lhs name\="io.netty.util.Constant"><rhs name\="io.netty.channel.ChannelOption"/><rhs name\="io.netty.channel.epoll.EpollChannelOption"/></lhs><lhs name\="io.netty.channel.ChannelOption"><rhs name\="io.netty.channel.ChannelOption"/><rhs name\="io.netty.channel.epoll.EpollChannelOption"/></lhs><lhs name\="java.time.temporal.TemporalAmount"><rhs name\="java.time.Duration"/></lhs><lhs name\="org.springframework.http.client.reactive.ClientHttpConnector"><rhs name\="org.springframework.http.client.reactive.ReactorClientHttpConnector"/></lhs></history>
+content_assist_number_of_computers=15
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.exception.name=e
+org.eclipse.jdt.ui.formatterprofiles.version=23
+org.eclipse.jdt.ui.gettersetter.use.is=true
+org.eclipse.jdt.ui.overrideannotation=true
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

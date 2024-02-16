@@ -1,0 +1,7 @@
+1704999212812	Rename type 'Product'
+1704999231559	Rename package 'com.paymentchain.product.entities'
+1704999612620	Rename package 'com.paymentchain.product.respository'
+1704999626009	Rename type 'ProductRepository'
+1704999655612	Rename field 'productRepository'
+1704999669899	Rename type 'ProductRestController'
+1705000000658	Rename package 'com.paymentchain.product.controller'

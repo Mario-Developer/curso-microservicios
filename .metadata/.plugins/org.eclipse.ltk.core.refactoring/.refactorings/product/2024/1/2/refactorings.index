@@ -1,0 +1,8 @@
+1704913619153	Rename package 'com.paymentchain.customer.respository'
+1704913635675	Rename package 'com.paymentchain.customer.entities'
+1704913647546	Rename package 'com.paymentchain.customer.controller'
+1704913668724	Rename type 'Customer'
+1704913742532	Rename type 'CustomerRepository'
+1704913772154	Rename type 'CustomerRestController'
+1704913807090	Rename field 'customerRepository'
+1704999166651	Copy packages
